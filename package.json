@@ -1,6 +1,6 @@
 {
   "name": "react-typescript-storybook-boilerplate",
-  "description": "Boilerplate for development with React, Typescript and Storybook"
+  "description": "Boilerplate for development with React, Typescript and Storybook",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
