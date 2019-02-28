@@ -1,4 +1,4 @@
-#React-Typescript-Storybook Boilerplate
+# React-Typescript-Storybook Boilerplate
 
 This is the boilerplate for React, Typescript and Storybook
 
